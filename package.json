@@ -1,0 +1,12 @@
+{
+  "name": "comp3104_devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": ["devops", "nodejs", "express", "wb"],
+  "author": "Stefan Kepinski",
+  "license": "ISC"
+}
